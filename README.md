@@ -10,6 +10,9 @@ This website is a side project made for practicing using different frameworks an
 
 # API and Frameworks
 -JavaScript
+
 -HTML5
+
 -CSS
+
 -BDL API (https://www.balldontlie.io/#introduction)
